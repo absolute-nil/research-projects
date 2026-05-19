@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"thesis","type":"file","file":"08_Writing/Thesis/Overarching Thesis.md","x":0,"y":0,"width":360,"height":160},
+		{"id":"track-human","type":"file","file":"08_Writing/Thesis/Track I — Human Behavior with AI.md","x":-520,"y":260,"width":320,"height":140},
+		{"id":"track-agent","type":"file","file":"08_Writing/Thesis/Track II — Conversational Agent Behavior in Complex Contexts.md","x":20,"y":260,"width":360,"height":140},
+		{"id":"track-governance","type":"file","file":"08_Writing/Thesis/Track III — Democratized Information Governance.md","x":560,"y":260,"width":360,"height":140},
+		{"id":"voice","type":"file","file":"01_Projects/Voice Echo Chamber — Cognitive Susceptibility/Voice Echo Chamber — Cognitive Susceptibility.md","x":-740,"y":520,"width":320,"height":130},
+		{"id":"misinfo","type":"file","file":"01_Projects/Misinformation in Conversational Search/Misinformation in Conversational Search.md","x":-380,"y":520,"width":320,"height":130},
+		{"id":"narrative","type":"file","file":"01_Projects/Narrative Gap/Narrative Gap.md","x":-20,"y":520,"width":300,"height":130},
+		{"id":"mixed","type":"file","file":"01_Projects/Mixed-Initiative Collaboration and LLM Agency/Mixed-Initiative Collaboration and LLM Agency.md","x":320,"y":520,"width":360,"height":130},
+		{"id":"democratic","type":"file","file":"01_Projects/Democratic AI Evidence Gap Mapping/Democratic AI Evidence Gap Mapping.md","x":720,"y":520,"width":340,"height":130},
+		{"id":"gricea","type":"file","file":"01_Projects/Gricea/Gricea.md","x":1080,"y":520,"width":280,"height":130}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"thesis","fromSide":"bottom","toNode":"track-human","toSide":"top"},
+		{"id":"e2","fromNode":"thesis","fromSide":"bottom","toNode":"track-agent","toSide":"top"},
+		{"id":"e3","fromNode":"thesis","fromSide":"bottom","toNode":"track-governance","toSide":"top"},
+		{"id":"e4","fromNode":"track-human","fromSide":"bottom","toNode":"voice","toSide":"top"},
+		{"id":"e5","fromNode":"track-human","fromSide":"bottom","toNode":"misinfo","toSide":"top"},
+		{"id":"e6","fromNode":"track-agent","fromSide":"bottom","toNode":"narrative","toSide":"top"},
+		{"id":"e7","fromNode":"track-agent","fromSide":"bottom","toNode":"mixed","toSide":"top"},
+		{"id":"e8","fromNode":"track-governance","fromSide":"bottom","toNode":"democratic","toSide":"top"},
+		{"id":"e9","fromNode":"track-governance","fromSide":"bottom","toNode":"gricea","toSide":"top"}
+	]
+}

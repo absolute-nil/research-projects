@@ -1,0 +1,107 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#project",
+      "color": {
+        "a": 1,
+        "rgb": 14942278
+      }
+    },
+    {
+      "query": "tag:#paper",
+      "color": {
+        "a": 1,
+        "rgb": 4312372
+      }
+    },
+    {
+      "query": "tag:#card",
+      "color": {
+        "a": 1,
+        "rgb": 16737792
+      }
+    },
+    {
+      "query": "tag:#method/hci",
+      "color": {
+        "a": 1,
+        "rgb": 5592575
+      }
+    },
+    {
+      "query": "tag:#method/nlp",
+      "color": {
+        "a": 1,
+        "rgb": 10040166
+      }
+    },
+    {
+      "query": "tag:#study OR tag:#evaluation OR tag:#experiment",
+      "color": {
+        "a": 1,
+        "rgb": 11184810
+      }
+    },
+    {
+      "query": "tag:#pseudocode",
+      "color": {
+        "a": 1,
+        "rgb": 16761035
+      }
+    },
+    {
+      "query": "tag:#problem",
+      "color": {
+        "a": 1,
+        "rgb": 16748574
+      }
+    },
+    {
+      "query": "tag:#lens",
+      "color": {
+        "a": 1,
+        "rgb": 7405514
+      }
+    },
+    {
+      "query": "tag:#research-question",
+      "color": {
+        "a": 1,
+        "rgb": 8388564
+      }
+    },
+    {
+      "query": "tag:#writing",
+      "color": {
+        "a": 1,
+        "rgb": 15548997
+      }
+    },
+    {
+      "query": "tag:#software-feature",
+      "color": {
+        "a": 1,
+        "rgb": 4635647
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.2,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 220,
+  "scale": 1.1137113354992352,
+  "close": false
+}

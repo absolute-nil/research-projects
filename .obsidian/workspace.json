@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "7280af55e0d1193a",
+    "type": "split",
+    "children": [
+      {
+        "id": "12bf756613cf18f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "633cbe9d82abf5f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Projects/Voice Echo Chamber — Cognitive Susceptibility/Study — Voice Echo Chamber.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Study — Voice Echo Chamber"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3cd693ffd038c913",
+    "type": "split",
+    "children": [
+      {
+        "id": "246fd4654c0a402e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88b37c371fe89a14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2267bf7b618031b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#card",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2c2080219318144b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5
+  },
+  "right": {
+    "id": "43d99ee743c31a54",
+    "type": "split",
+    "children": [
+      {
+        "id": "6267e36bbe88d853",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3909205cc3c078c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ideas/Gricea.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Gricea"
+            }
+          },
+          {
+            "id": "e33c5962cabb956b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ideas/Gricea.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Gricea"
+            }
+          },
+          {
+            "id": "ce5abc93fcea3b26",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "69d71cdbaac9da0b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fbd946e736777ec5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_Projects/Voice Echo Chamber — Cognitive Susceptibility/Study — Voice Echo Chamber.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Study — Voice Echo Chamber"
+            }
+          },
+          {
+            "id": "e082b977e753513e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "f4ca5657395343b6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "fb843a3ddfeeedd5",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "03_Cards/Observations/Untitled.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "633cbe9d82abf5f9",
+  "lastOpenFiles": [
+    "01_Projects/Voice Echo Chamber — Cognitive Susceptibility/Pseudocode — RAG Chatbot with Bias Conditions.md",
+    "01_Projects/High-Stakes Group Perception of LLM Portrayals/High-Stakes Group Perception of LLM Portrayals.md",
+    "01_Projects/Gricea/Notes — Gricea Imported Card.md",
+    "01_Projects/Gricea/Gricea.md",
+    "01_Projects/Gricea/Features/Feature — Study Flow Builder.md",
+    "01_Projects/Gricea/Features/Feature — Research Protocol Sharing.md",
+    "01_Projects/Gricea/Features/Feature — Fine-Grained Interaction Logs.md",
+    "01_Projects/Democratic AI Evidence Gap Mapping/Democratic AI Evidence Gap Mapping.md",
+    "HOME.md",
+    "03_Cards/Untitled 2.canvas",
+    "08_Writing/Rebuttals/Rebuttal Template Example.md",
+    "09_Trackers/Action Dashboard.md",
+    "90_Meta/Guides/Tag and Link Conventions.md",
+    "90_Meta/Guides/Zotero Workflow.md",
+    "90_Meta/Guides/Vault Operating Manual.md",
+    "90_Meta/Canvases/Thesis Problem Map.canvas",
+    "90_Meta/Indexes/Research Index.md",
+    "04_Organizations/Center for an Informed Public.md",
+    "04_Organizations/FactCheck.org.md",
+    "04_Organizations/Global Dialogues.md",
+    "04_Organizations/Johns Hopkins University.md",
+    "04_Organizations/Microsoft Research.md",
+    "04_Organizations/OSCE Minsk Group.md",
+    "03_Cards/Untitled 1.canvas",
+    "03_Cards/Biases in VLM Alignment on Geopolitical Topics.md",
+    "04_People/Will.md",
+    "04_People/Vera.md",
+    "04_People/Nikhil Sharma.md",
+    "04_People/Michael Running Wolf.md",
+    "08_Writing/Fellowships/Nikhil_Fellowships (2).pdf",
+    "02_Sources/Drafts/Mixed initiative collaboration: the missing agency in LLMs.pdf",
+    "01_Projects/Gricea/Features",
+    "01_Projects/Mixed-Initiative Collaboration and LLM Agency",
+    "90_Meta/Canvases",
+    "09_Trackers",
+    "08_Writing/Thesis/Versions",
+    "08_Writing/Thesis",
+    "08_Writing/Rebuttals",
+    "08_Writing/Presentations",
+    "03_Cards/Untitled.canvas",
+    "Files/Pasted image 20260330185021.png",
+    "Untitled.canvas"
+  ]
+}
