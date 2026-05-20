@@ -28,6 +28,7 @@ From information at your fingertips to knowledge at your fingertips.
 - [[Mixed-Initiative Collaboration and Agency]]
 - [[Human Feedback and Power Dynamics]]
 - [[Research Infrastructure for AI Studies]]
+- [[User Simulation for Human-AI Intervention Design]]
 
 ## Lenses
 - [[Information Flows]]
@@ -48,6 +49,7 @@ From information at your fingertips to knowledge at your fingertips.
 | [[Gricea]] | Provides infrastructure for reproducible conversational AI studies. | Needs evaluation and software feature tracker. |
 | [[Democratic AI Evidence Gap Mapping]] | Translates public concerns into empirical study agendas. | Needs data schema and example pipeline. |
 | [[Mixed-Initiative Collaboration and LLM Agency]] | Explains missing agency, collaboration, and communicative behavior in LLMs. | Needs narrowed empirical hook. |
+| [[MSR User Simulation — Hypothesis Generator]] | Reframes user simulation as a hypothesis-generation layer for intervention design. | Needs first behavior family and validation plan. |
 
 ## What Does Not Yet Connect
 - The mixed-initiative/model-agency thread needs to connect cleanly to the information-flow thesis rather than becoming a separate NLP alignment paper.
@@ -58,4 +60,3 @@ From information at your fingertips to knowledge at your fingertips.
 - Update this note after major project milestones.
 - Keep one dated version in `08_Writing/Thesis/Versions` whenever the thesis framing changes.
 - Use the project tracker to see which projects are currently supporting each thesis track.
-

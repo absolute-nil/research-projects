@@ -3,8 +3,13 @@ type: project
 status: active
 stage: seed
 tracker_status: ":ziang-xiao:"
+health: yellow
+priority: P2
 last_reviewed: 2026-05-19
+next_review: 2026-05-26
 next_milestone: "Narrow empirical hook and define first study"
+next_action: "Convert taxonomy into a coding rubric for completion/delegation/collaboration"
+blockers: [scope, empirical-hook]
 tags: [project, method/nlp, method/hci, collaboration, agency, alignment]
 created: 2026-05-19
 updated: 2026-05-19
@@ -59,4 +64,3 @@ Can we operationally distinguish completion, delegation, and collaboration, then
 
 ## Project Log
 - 2026-05-19: Created from the mixed-initiative draft PDF and linked into the thesis problem map.
-

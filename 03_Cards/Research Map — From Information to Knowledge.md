@@ -10,6 +10,7 @@ projects:
   - "[[Narrative Gap]]"
   - "[[Gricea]]"
   - "[[Mixed-Initiative Collaboration and LLM Agency]]"
+  - "[[MSR User Simulation — Hypothesis Generator]]"
 problems:
   - "[[Biased Information Foraging and Echo Chambers]]"
   - "[[Cross-Cultural Information Access]]"
@@ -53,7 +54,7 @@ From information at your fingertips to knowledge at your fingertips.
 - Safety and oversight: [[How do we create information safety protocols for conversational agents]], [[How do we make information inferentially safe]], [[What output enables human oversight in conversational agents]].
 - Feedback and governance: [[How can we increase the utility of human feedback]], [[What prevents users from giving high-quality feedback]], [[How do we enable democratized dissemination of information with conversational agents]].
 - Collaboration: [[How do we distinguish completion delegation and collaboration]], [[Can speaker-centric preference data restore communicative agency]].
+- Simulation and intervention design: [[What is the utility of LLM-based user simulation]], [[Can undesirable-behavior simulators generate intervention hypotheses]], [[How should simulations be calibrated against human studies]].
 
 ## Maintenance Rule
 This is a map, not a folder system. When a new idea appears, create it where it naturally belongs, then link it back here only if it changes the thesis structure.
-

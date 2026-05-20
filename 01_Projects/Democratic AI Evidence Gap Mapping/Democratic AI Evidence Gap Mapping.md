@@ -3,8 +3,13 @@ type: project
 status: seed
 stage: proposal
 tracker_status: ":ziang-xiao:"
+health: yellow
+priority: P2
 last_reviewed: 2026-05-19
+next_review: 2026-05-26
 next_milestone: "Define extraction schema and three public-concern examples"
+next_action: "Pick 3 Global Dialogues examples and map them to researchable questions"
+blockers: [dataset-access, schema-design]
 tags: [project, method/hci, method/nlp, democratic-ai, public-deliberation, evidence-gap]
 created: 2026-05-19
 updated: 2026-05-19
@@ -33,12 +38,12 @@ This project turns public deliberation data into empirical AI research questions
 Can public concerns about AI be systematically translated into researchable questions, evidence-gap maps, and study designs that help researchers and policymakers prioritize what to study next?
 
 ## Research Questions
-| ID | Question | Method | Status |
-|---|---|---|---|
-| RQ1 | How can open-ended public responses be converted into researchable HCI/AI questions? | NLP extraction + human validation | seed |
-| RQ2 | Which public AI concerns are already supported by empirical evidence, partially studied, or understudied? | evidence mapping | seed |
-| RQ3 | Can Gricea convert high-value public concerns into reproducible study designs? | system pipeline | seed |
-| RQ4 | Can grounded simulations help prioritize human studies where evidence is missing? | simulation + calibration | seed |
+| ID  | Question                                                                                                  | Method                            | Status |
+| --- | --------------------------------------------------------------------------------------------------------- | --------------------------------- | ------ |
+| RQ1 | How can open-ended public responses be converted into researchable HCI/AI questions?                      | NLP extraction + human validation | seed   |
+| RQ2 | Which public AI concerns are already supported by empirical evidence, partially studied, or understudied? | evidence mapping                  | seed   |
+| RQ3 | Can Gricea convert high-value public concerns into reproducible study designs?                            | system pipeline                   | seed   |
+| RQ4 | Can grounded simulations help prioritize human studies where evidence is missing?                         | simulation + calibration          | seed   |
 
 ## Claims
 | Claim | Evidence needed | Linked notes |

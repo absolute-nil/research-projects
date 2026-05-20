@@ -33,7 +33,7 @@ SORT file.name ASC
 
 ## Research Questions
 ```dataview
-TABLE status, problem, projects, lenses
+TABLE answer_status AS Answer, status, problem, project, projects, lenses
 FROM "03_Cards/Research_Questions"
 WHERE type = "research-question"
 SORT status ASC, file.name ASC

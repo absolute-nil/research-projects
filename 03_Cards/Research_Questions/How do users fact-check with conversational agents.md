@@ -1,6 +1,7 @@
 ---
 type: research-question
 status: seed
+answer_status: unanswered
 tags: [research-question, fact-checking, trust, misinformation]
 created: 2026-05-19
 updated: 2026-05-19
@@ -8,7 +9,6 @@ problem: "[[Information Safety and Trust Calibration]]"
 lenses: ["[[Information Flows]]", "[[Pragmatics and Gricean Communication]]"]
 projects: ["[[Misinformation in Conversational Search]]"]
 ---
-
 # How do users fact-check with conversational agents?
 
 ## Why It Matters

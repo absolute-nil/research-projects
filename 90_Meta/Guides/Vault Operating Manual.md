@@ -48,3 +48,4 @@ Do not organize by discipline folders. Your projects mix HCI, NLP, systems, theo
 - Use problems, lenses, and research questions as graph surfaces; do not create HCI/NLP folders for mixed work.
 - Use `08_Writing` for versioned artifacts and section-level paper work so draft evolution is auditable.
 - Use tracker dashboards instead of manually maintained status pages.
+- Put durable open questions in `03_Cards/Research_Questions`; use [[Open Questions Dashboard]] to review unanswered and partially answered questions.

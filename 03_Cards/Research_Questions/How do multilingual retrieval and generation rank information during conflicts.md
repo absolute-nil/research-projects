@@ -1,6 +1,7 @@
 ---
 type: research-question
 status: seed
+answer_status: unanswered
 tags: [research-question, multilingual, retrieval, conflict]
 created: 2026-05-19
 updated: 2026-05-19
@@ -8,7 +9,6 @@ problem: "[[Cross-Cultural Information Access]]"
 lenses: ["[[Capability Labels and Taxonomies]]", "[[Information Flows]]"]
 projects: ["[[Narrative Gap]]"]
 ---
-
 # How do multilingual retrieval and generation rank information during conflicts?
 
 ## Why It Matters

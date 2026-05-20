@@ -1,6 +1,7 @@
 ---
 type: research-question
 status: seed
+answer_status: unanswered
 tags: [research-question, collaboration, agency, llm]
 created: 2026-05-19
 updated: 2026-05-19
@@ -8,7 +9,6 @@ problem: "[[Mixed-Initiative Collaboration and Agency]]"
 lenses: ["[[Communicative Agency]]", "[[Pragmatics and Gricean Communication]]"]
 projects: ["[[Mixed-Initiative Collaboration and LLM Agency]]"]
 ---
-
 # How do we distinguish completion, delegation, and collaboration?
 
 ## Why It Matters

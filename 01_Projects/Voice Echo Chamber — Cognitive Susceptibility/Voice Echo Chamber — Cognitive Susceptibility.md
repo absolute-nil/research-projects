@@ -3,8 +3,13 @@ type: project
 status: active
 stage: data-collection
 tracker_status: ":this_is_fine:"
+health: yellow
+priority: P0
 last_reviewed: 2026-05-19
+next_review: 2026-05-26
 next_milestone: "Submit IRB and prepare pilot"
+next_action: "Finalize IRB packet and pilot task flow"
+blockers: [IRB, pilot-materials]
 collaborators: ["[[Ziang Xiao]]"]
 venue_target: CHI 2026
 deadline:

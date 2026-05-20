@@ -1,6 +1,7 @@
 ---
 type: research-question
 status: seed
+answer_status: unanswered
 tags: [research-question, feedback, governance, hci]
 created: 2026-05-19
 updated: 2026-05-19
@@ -8,7 +9,6 @@ problem: "[[Human Feedback and Power Dynamics]]"
 lenses: ["[[Power Dynamics in Human-AI Systems]]"]
 projects: ["[[Democratic AI Evidence Gap Mapping]]", "[[Gricea]]"]
 ---
-
 # What prevents users from giving high-quality feedback?
 
 ## Why It Matters

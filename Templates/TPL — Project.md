@@ -3,8 +3,13 @@ type: project
 status: active
 stage: seed
 tracker_status:
+health: yellow
+priority: P2
 last_reviewed: "{{date}}"
+next_review:
 next_milestone:
+next_action:
+blockers: []
 tags:
   - project
 created: "{{date}}"
@@ -30,9 +35,9 @@ One paragraph. What is the claim, artifact, or study, and why should the field c
 What is the highest-leverage question this project is trying to answer right now?
 
 ## Tracker
-| Status | Last reviewed | Next milestone |
-|---|---|---|
-| `tracker_status` | `last_reviewed` | `next_milestone` |
+| Status | Health | Priority | Last reviewed | Next review | Next milestone |
+|---|---|---|---|---|---|
+| `tracker_status` | `health` | `priority` | `last_reviewed` | `next_review` | `next_milestone` |
 
 ## Research Questions
 | ID | Question | Method | Status |
@@ -71,6 +76,9 @@ Use `[[term]]` links here instead of maintaining cluster pages.
 - Community / participant impact:
 
 ## Next Actions
+- [ ] 
+
+## Open Questions
 - [ ] 
 
 ## Project Log

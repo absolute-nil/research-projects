@@ -3,8 +3,13 @@ type: project
 status: active
 stage: design
 tracker_status: ":glitch_crab:"
+health: yellow
+priority: P1
 last_reviewed: 2026-05-19
+next_review: 2026-05-26
 next_milestone: "Choose whether this is standalone or a Voice Echo Chamber workstream"
+next_action: "Decide standalone vs. Voice Echo Chamber workstream"
+blockers: [scope-decision]
 tags: [project, method/hci, misinformation, conversational-search, fact-checking]
 created: 2026-05-19
 updated: 2026-05-19

@@ -1,6 +1,7 @@
 ---
 type: research-question
 status: seed
+answer_status: unanswered
 tags: [research-question, oversight, explanation, safety]
 created: 2026-05-19
 updated: 2026-05-19
@@ -8,7 +9,6 @@ problem: "[[Information Safety and Trust Calibration]]"
 lenses: ["[[Common Ground and Deliberation]]", "[[Information Flows]]"]
 projects: ["[[Misinformation in Conversational Search]]", "[[Democratic AI Evidence Gap Mapping]]"]
 ---
-
 # What output enables human oversight in conversational agents?
 
 ## Why It Matters

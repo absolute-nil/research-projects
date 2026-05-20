@@ -3,8 +3,13 @@ type: project
 status: active
 stage: writing
 tracker_status: ":dart:"
+health: green
+priority: P1
 last_reviewed: 2026-05-19
+next_review: 2026-05-26
 next_milestone: "Link final paper, benchmark repo, and conflict-specific source notes"
+next_action: "Attach repo/final PDF and create source notes for conflict cases"
+blockers: [source-linking]
 tags: [project, method/nlp, benchmark, narratives, multilingual, geopolitical-conflict]
 created: 2026-05-19
 updated: 2026-05-19

@@ -57,6 +57,10 @@ Common properties:
 - `lenses`
 - `thesis_track`
 - `tracker_status`
+- `health`
+- `priority`
+- `next_action`
+- `next_review`
 - `last_reviewed`
 - `next_milestone`
 - `read_status`

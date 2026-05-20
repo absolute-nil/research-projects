@@ -1,6 +1,7 @@
 ---
 type: research-question
 status: seed
+answer_status: unanswered
 tags: [research-question, feedback, utility, alignment]
 created: 2026-05-19
 updated: 2026-05-19
@@ -8,7 +9,6 @@ problem: "[[Human Feedback and Power Dynamics]]"
 lenses: ["[[Power Dynamics in Human-AI Systems]]", "[[Common Ground and Deliberation]]"]
 projects: ["[[Democratic AI Evidence Gap Mapping]]", "[[Mixed-Initiative Collaboration and LLM Agency]]"]
 ---
-
 # How can we increase the utility of human feedback?
 
 ## Why It Matters

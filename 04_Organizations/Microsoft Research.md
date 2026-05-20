@@ -7,6 +7,7 @@ website:
 people: []
 projects:
   - "[[Democratic AI Evidence Gap Mapping]]"
+  - "[[MSR User Simulation — Hypothesis Generator]]"
 themes: [user-simulation, hci, ai-research]
 ---
 
@@ -23,10 +24,11 @@ The draft uses the MSR thread to reason about what user simulation can and canno
 
 ## Related Projects
 - [[Democratic AI Evidence Gap Mapping]]
+- [[MSR User Simulation — Hypothesis Generator]]
 
 ## Notes / Observations
 - [[User behavior is affordance-dependent]]
+- [[LLM Human Simulation — Master Note]]
 
 ## Follow Up
 - [ ] Add people, team, and internship context.
-

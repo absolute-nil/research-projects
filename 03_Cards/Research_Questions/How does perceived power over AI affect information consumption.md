@@ -1,6 +1,7 @@
 ---
 type: research-question
 status: seed
+answer_status: unanswered
 tags: [research-question, power, control, trust]
 created: 2026-05-19
 updated: 2026-05-19
@@ -8,7 +9,6 @@ problem: "[[Human Feedback and Power Dynamics]]"
 lenses: ["[[Power Dynamics in Human-AI Systems]]", "[[User Fingerprint]]"]
 projects: ["[[Misinformation in Conversational Search]]"]
 ---
-
 # How does perceived power over AI affect information consumption?
 
 ## Why It Matters

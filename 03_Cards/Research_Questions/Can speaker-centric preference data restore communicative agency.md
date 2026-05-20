@@ -1,6 +1,7 @@
 ---
 type: research-question
 status: seed
+answer_status: unanswered
 tags: [research-question, preference-data, agency, alignment]
 created: 2026-05-19
 updated: 2026-05-19
@@ -8,7 +9,6 @@ problem: "[[Mixed-Initiative Collaboration and Agency]]"
 lenses: ["[[Communicative Agency]]", "[[Pragmatics and Gricean Communication]]"]
 projects: ["[[Mixed-Initiative Collaboration and LLM Agency]]"]
 ---
-
 # Can speaker-centric preference data restore communicative agency?
 
 ## Why It Matters

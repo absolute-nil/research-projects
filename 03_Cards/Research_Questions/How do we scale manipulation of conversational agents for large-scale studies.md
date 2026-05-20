@@ -1,6 +1,7 @@
 ---
 type: research-question
 status: seed
+answer_status: unanswered
 tags: [research-question, platform, manipulation, studies]
 created: 2026-05-19
 updated: 2026-05-19
@@ -8,7 +9,6 @@ problem: "[[Research Infrastructure for AI Studies]]"
 lenses: ["[[Information Foraging Theory for Conversational AI]]"]
 projects: ["[[Gricea]]"]
 ---
-
 # How do we scale manipulation of conversational agents for large-scale studies?
 
 ## Why It Matters

@@ -12,6 +12,7 @@ projects:
   - "[[Democratic AI Evidence Gap Mapping]]"
   - "[[Gricea]]"
   - "[[High-Stakes Group Perception of LLM Portrayals]]"
+  - "[[MSR User Simulation — Hypothesis Generator]]"
 ---
 
 # Track III — Democratized Information Governance
@@ -39,4 +40,4 @@ This track connects [[Community-Based Auditing and Participatory Evaluation]], [
 - [[Democratic AI Evidence Gap Mapping]]
 - [[Gricea]]
 - [[High-Stakes Group Perception of LLM Portrayals]]
-
+- [[MSR User Simulation — Hypothesis Generator]]

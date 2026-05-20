@@ -3,8 +3,13 @@ type: project
 status: active
 stage: building
 tracker_status: ":claude:"
+health: green
+priority: P1
 last_reviewed: 2026-05-19
-next_milestone: "Define study-flow schema, logging requirements, and platform evaluation"
+next_review: 2026-05-26
+next_milestone: "Define study-flow schema, logging requirements, simulation harness, and platform evaluation"
+next_action: "Turn feature notes into a minimal implementation/evaluation roadmap"
+blockers: [schema-design]
 tags: [project, method/hci, platform, open-science, conversational-ai]
 created: 2026-05-19
 updated: 2026-05-19
@@ -51,7 +56,7 @@ How can Gricea lower the barrier for rigorous conversational AI studies while pr
 - Study authoring: visual builder for non-software researchers.
 - Data infrastructure: fine-grained interaction logs, export formats, consent and privacy.
 - Community layer: shared study protocols, designs, and data where ethically possible.
-- Software features: [[Feature — Study Flow Builder]], [[Feature — Fine-Grained Interaction Logs]], [[Feature — Research Protocol Sharing]]
+- Software features: [[Feature — Study Flow Builder]], [[Feature — Fine-Grained Interaction Logs]], [[Feature — Research Protocol Sharing]], [[Feature — Simulation Harness for Behavioral Hypotheses]]
 - Imported older notes: [[Notes — Gricea Imported Card]]
 
 ## Related Terms

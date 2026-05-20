@@ -1,6 +1,7 @@
 ---
 type: research-question
 status: seed
+answer_status: unanswered
 tags: [research-question, retrieval, multilingual, embeddings]
 created: 2026-05-19
 updated: 2026-05-19
@@ -8,7 +9,6 @@ problem: "[[Cross-Cultural Information Access]]"
 lenses: ["[[Information Foraging Theory for Conversational AI]]", "[[Capability Labels and Taxonomies]]"]
 projects: ["[[Narrative Gap]]"]
 ---
-
 # Do atomic embeddings and information gain improve multilingual retrieval?
 
 ## Why It Matters

@@ -1,6 +1,7 @@
 ---
 type: research-question
 status: seed
+answer_status: unanswered
 tags: [research-question, personalization, common-ground]
 created: 2026-05-19
 updated: 2026-05-19
@@ -8,7 +9,6 @@ problem: "[[Information Safety and Trust Calibration]]"
 lenses: ["[[Common Ground and Deliberation]]", "[[User Fingerprint]]"]
 projects: ["[[Misinformation in Conversational Search]]", "[[Mixed-Initiative Collaboration and LLM Agency]]"]
 ---
-
 # How do we output information to different personas while maintaining common ground?
 
 ## Why It Matters

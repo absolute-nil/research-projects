@@ -1,6 +1,7 @@
 ---
 type: research-question
 status: seed
+answer_status: unanswered
 tags: [research-question, safety, protocol, conversational-ai]
 created: 2026-05-19
 updated: 2026-05-19
@@ -8,7 +9,6 @@ problem: "[[Information Safety and Trust Calibration]]"
 lenses: ["[[Information Flows]]", "[[Pragmatics and Gricean Communication]]"]
 projects: ["[[Democratic AI Evidence Gap Mapping]]", "[[Gricea]]"]
 ---
-
 # How do we create information safety protocols for conversational agents?
 
 ## Why It Matters

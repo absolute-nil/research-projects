@@ -6,6 +6,7 @@
       {
         "id": "12bf756613cf18f3",
         "type": "tabs",
+        "dimension": 37.174211248285324,
         "children": [
           {
             "id": "633cbe9d82abf5f9",
@@ -13,7 +14,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Projects/Voice Echo Chamber — Cognitive Susceptibility/Study — Voice Echo Chamber.md",
+                "file": "03_Cards/LLM Human Simulation — Master Note.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LLM Human Simulation — Master Note"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f71d1c5a2d81f254",
+        "type": "tabs",
+        "dimension": 62.825788751714676,
+        "children": [
+          {
+            "id": "86097f892394ef42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Projects/MSR User Simulation — Hypothesis Generator/MSR User Simulation — Hypothesis Generator.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +60,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Study — Voice Echo Chamber"
+              "title": "MSR User Simulation — Hypothesis Generator"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Projects/Voice Echo Chamber — Cognitive Susceptibility/Study — Voice Echo Chamber.md",
+                "file": "01_Projects/MSR User Simulation — Hypothesis Generator/MSR User Simulation — Hypothesis Generator.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Study — Voice Echo Chamber"
+              "title": "Outline of MSR User Simulation — Hypothesis Generator"
             }
           },
           {
@@ -233,47 +264,47 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "633cbe9d82abf5f9",
+  "active": "86097f892394ef42",
   "lastOpenFiles": [
-    "01_Projects/Voice Echo Chamber — Cognitive Susceptibility/Pseudocode — RAG Chatbot with Bias Conditions.md",
-    "01_Projects/High-Stakes Group Perception of LLM Portrayals/High-Stakes Group Perception of LLM Portrayals.md",
-    "01_Projects/Gricea/Notes — Gricea Imported Card.md",
+    "03_Cards/Research_Questions/Giving one narrative but saying it's one narrative vs giving multiple narratives.md",
+    "03_Cards/Research_Questions/What do we loose with AI mediated information consumption.md",
+    "01_Projects/MSR User Simulation — Hypothesis Generator/MSR User Simulation — Hypothesis Generator.md",
+    "02_Sources/Datasets",
+    "03_Cards/LLM Human Simulation — Master Note.md",
     "01_Projects/Gricea/Gricea.md",
-    "01_Projects/Gricea/Features/Feature — Study Flow Builder.md",
-    "01_Projects/Gricea/Features/Feature — Research Protocol Sharing.md",
-    "01_Projects/Gricea/Features/Feature — Fine-Grained Interaction Logs.md",
-    "01_Projects/Democratic AI Evidence Gap Mapping/Democratic AI Evidence Gap Mapping.md",
-    "HOME.md",
+    "03_Cards/Research_Questions/What are the boundaries of LLM-based human simulation.md",
+    "03_Cards/Problems/User Simulation for Human-AI Intervention Design.md",
+    "03_Cards/Observations/User behavior is affordance-dependent.md",
+    "03_Cards/Observations/Prompt engineering as interface failure.md",
+    "03_Cards/Observations/High-stakes groups are evaluators of LLM portrayals.md",
+    "03_Cards/Observations/AI systems need a living empirical evidence corpus.md",
+    "03_Cards/Observations/Citation quantity creates credibility illusions.md",
+    "03_Cards/Observations/Conversational search can proactively correct misinformation.md",
+    "03_Cards/Lenses/User Fingerprint.md",
+    "03_Cards/Lenses/Simulation as hypothesis generator.md",
+    "02_Sources/Reading Lists/Awesome LLM-based Human Simulation — Source Map.md",
+    "02_Sources/Papers/AlpacaFarm — Simulation Framework for Human Feedback.md",
+    "01_Projects/Mixed-Initiative Collaboration and LLM Agency/Mixed-Initiative Collaboration and LLM Agency.md",
+    "01_Projects/Misinformation in Conversational Search/Misinformation in Conversational Search.md",
+    "01_Projects/Gricea/Features/Feature — Simulation Harness for Behavioral Hypotheses.md",
+    "01_Projects/MSR User Simulation — Hypothesis Generator/Meeting — MSR Simulation Direction with Ziang.md",
+    "02_Sources/Papers/LLM-Based Social Simulations Require a Boundary.md",
+    "02_Sources/Papers/Evaluating Mixed-initiative Conversational Search Systems via User Simulation.md",
+    "03_Cards/Research_Questions/Can classifiers identify desirable and undesirable collaboration information flows.md",
+    "03_Cards/Research_Questions/What are desirable and undesirable behaviors in multi-turn human-AI collaboration.md",
+    "03_Cards/Multi-turn Collaboration Behavior Taxonomy.md",
+    "02_Sources/Zotero",
+    "02_Sources/Reading Lists",
+    "01_Projects/MSR User Simulation — Hypothesis Generator",
     "03_Cards/Untitled 2.canvas",
-    "08_Writing/Rebuttals/Rebuttal Template Example.md",
-    "09_Trackers/Action Dashboard.md",
-    "90_Meta/Guides/Tag and Link Conventions.md",
-    "90_Meta/Guides/Zotero Workflow.md",
-    "90_Meta/Guides/Vault Operating Manual.md",
     "90_Meta/Canvases/Thesis Problem Map.canvas",
-    "90_Meta/Indexes/Research Index.md",
-    "04_Organizations/Center for an Informed Public.md",
-    "04_Organizations/FactCheck.org.md",
-    "04_Organizations/Global Dialogues.md",
-    "04_Organizations/Johns Hopkins University.md",
-    "04_Organizations/Microsoft Research.md",
-    "04_Organizations/OSCE Minsk Group.md",
     "03_Cards/Untitled 1.canvas",
-    "03_Cards/Biases in VLM Alignment on Geopolitical Topics.md",
-    "04_People/Will.md",
-    "04_People/Vera.md",
-    "04_People/Nikhil Sharma.md",
-    "04_People/Michael Running Wolf.md",
     "08_Writing/Fellowships/Nikhil_Fellowships (2).pdf",
     "02_Sources/Drafts/Mixed initiative collaboration: the missing agency in LLMs.pdf",
     "01_Projects/Gricea/Features",
     "01_Projects/Mixed-Initiative Collaboration and LLM Agency",
     "90_Meta/Canvases",
     "09_Trackers",
-    "08_Writing/Thesis/Versions",
-    "08_Writing/Thesis",
-    "08_Writing/Rebuttals",
-    "08_Writing/Presentations",
     "03_Cards/Untitled.canvas",
     "Files/Pasted image 20260330185021.png",
     "Untitled.canvas"

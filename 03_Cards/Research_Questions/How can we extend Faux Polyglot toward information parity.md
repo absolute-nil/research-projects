@@ -1,6 +1,7 @@
 ---
 type: research-question
 status: seed
+answer_status: unanswered
 tags: [research-question, multilingual, evaluation, faux-polyglot]
 created: 2026-05-19
 updated: 2026-05-19
@@ -8,7 +9,6 @@ problem: "[[Cross-Cultural Information Access]]"
 lenses: ["[[Capability Labels and Taxonomies]]"]
 projects: ["[[Narrative Gap]]"]
 ---
-
 # How can we extend Faux Polyglot toward information parity?
 
 ## Why It Matters
